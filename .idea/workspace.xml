@@ -18,8 +18,8 @@
       <file leaf-file-name="lists.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lists.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="576">
-              <caret line="35" column="16" lean-forward="true" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
+            <state relative-caret-position="486">
+              <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -29,7 +29,7 @@
         <entry file="file://$PROJECT_DIR$/css/syntax.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
-              <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <caret line="5" column="21" lean-forward="false" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -233,12 +233,12 @@
       <workItem from="1513945268165" duration="463000" />
       <workItem from="1513957139561" duration="3555000" />
       <workItem from="1513964086397" duration="7338000" />
-      <workItem from="1514026016181" duration="10912000" />
+      <workItem from="1514026016181" duration="12167000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22268000" />
+    <option name="totallyTimeSpent" value="23523000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="124" y="24" width="876" height="916" extended-state="4" />
@@ -357,8 +357,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lists.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="35" column="16" lean-forward="true" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
+        <state relative-caret-position="486">
+          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -366,7 +366,7 @@
     <entry file="file://$PROJECT_DIR$/css/syntax.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <caret line="5" column="21" lean-forward="false" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
           <folding />
         </state>
       </provider>
